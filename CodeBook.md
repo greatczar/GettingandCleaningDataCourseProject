@@ -1,8 +1,3 @@
----
-title: "CodeBook"
-output: html_document
----
-
 ###Descriptors of variables found in averages.txt.
 
 

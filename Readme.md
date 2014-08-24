@@ -1,6 +1,3 @@
----
-output: html_document
----
 #Contents of Repository
 This repository contains the following files. 
 
