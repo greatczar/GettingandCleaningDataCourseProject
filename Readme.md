@@ -74,7 +74,7 @@ The reshape2 library package was called giving access to the melt and dcast func
 
 The melt function was used to reshape the data into a tall narrow data frame for individual subjects and activityLabels.This tall data has a column for possible variable types and a column for the values of those variables.
 
-The dcast funtion was used on the output of the melt function to calculate the average of each variable for each activity and subject.This generated a data frame called average with 180 rows and 68 variables. Column names were changed to indicate they were averages of the original columns. 
+The dcast function was used on the output of the melt function to calculate the average of each variable for each activity and subject.This generated a data frame called average with 180 rows and 68 variables. Column names were changed to indicate they were averages of the original columns. 
 
 The averages data frame was exported as a text file called averages.txt. Each column in this file is delimited by a comma.
 
