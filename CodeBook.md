@@ -30,12 +30,12 @@ www.smartlab.ws
 ###Codebook for Averages.txt
 
 ***
-All variable names use camel case to mark the boundary between words.All variables other than subjects and activityLabel are averages by subject and activity label of mean and standard deviation data from the Human Activity Recognition Using Smartphones Dataset.
+All variable names use camel case to mark the boundary between words.All variables other than subjects and activityLabel are averages by subject and activity label of mean and standard deviation data from the Human Activity Recognition Using Smartphones Dataset.All features in the original dataset were normalized and bounded within [-1,1].Hence, variables in average.txt except subjects and activityLabel are bounded within [-1,1].
 
 ***
 subjects
 
-* numeric identity of subject participant. Possible values-1 to 30.
+* numeric identity of subject who carried out the experiment. Possible values-1 to 30.
 
 ***
 activityLabel 
